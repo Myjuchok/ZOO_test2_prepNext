@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/ZOO_test2_prepNext/cmake-build-debug/CMakeFiles/ZOO_test2_prepNext.dir
+C:/Users/User/CLionProjects/ZOO_test2_prepNext/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/ZOO_test2_prepNext/cmake-build-debug/CMakeFiles/rebuild_cache.dir
